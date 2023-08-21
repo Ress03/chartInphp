@@ -1,0 +1,20 @@
+{
+    "name": "reysandev/chartinphp",
+    "description": "A PHP class for rendering charts using Chart.js library.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reysan Barillo",
+            "email": "reysanbarillo3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "reysandev\\": "src/"
+        }
+    }
+}
